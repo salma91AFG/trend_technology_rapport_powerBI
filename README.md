@@ -34,7 +34,7 @@ Cette page met en évidence les caractéristiques démographiques et professionn
 
 ### 2️⃣ Langages de programmation
 
-Analyse comparative des langages selon plusieurs dimensions :
+Analyse comparative des langages:
 
 - langages les plus utilisés
 - langages les plus demandés
@@ -125,3 +125,10 @@ Les mesures permettent notamment de :
 - **Utilisation avancée du contexte de filtre**
 - **Analyse orientée marché & décision**
 - **Rapport interactif** pensé pour un public non technique
+
+---
+
+## 👤 Auteur
+
+**Salma Djaid – Data Analyst**  
+Conception du pipeline, nettoyage, EDA, visualisations et recommandations.
