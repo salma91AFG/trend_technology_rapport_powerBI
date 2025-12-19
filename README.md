@@ -67,7 +67,7 @@ Le projet s’appuie sur une version **nettoyée et préparée** du **Stack Over
 
 - **Dataset final :** `survey-data_V3_final.csv`
 - **Source GitHub :**  
-  https://github.com/salma91AFG/Technology-Trends-Analytics/blob/main/Data/Survey/processed/survey-data_V3_final.csv
+  https://github.com/salma91AFG/Technology-Trends-Analytics/blob/main/Data/Survey/processed
 
 Le chargement des données dans Power BI est réalisé **via un script Python**, directement depuis GitHub.
 
